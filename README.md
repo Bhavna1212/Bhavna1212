@@ -22,9 +22,14 @@
 - 💻 Technical Skills :  ...
 
    •	Python Libraries:        Numpy, Pandas, SciPy, Matplotlib, BeautifulSoup, Keras, TensorFlow, OpenCV,    Bokeh, Requests, Scikit-learn, StatsModels, Seaborn.
+   
    •	R Libraries:             tidyr, ggplot2, ggraph, dplyr, shiny, plotly, tidytext, caret, sentimentr, etc.
-   •	Analytical Skills:       Data & Quantitative analysis, Decision Analytics, Predictive Modelling,Data Driven decision making, Data mining & visualization tools,                                  Machine learning (ML) algorithms, SQL Query Interpretations, Forecast, ETL (Extract, Transform, Load), Google Analytics. A/B Testing.  
+   
+   •	Analytical Skills:       Data & Quantitative analysis, Decision Analytics, Predictive Modelling,Data Driven decision making, Data mining & visualization tools,                                              Machine learning (ML) algorithms, SQL Query Interpretations, Forecast, ETL (Extract, Transform, Load), Google Analytics. A/B Testing. 
+   
    •	Platforms:               PyCharm, R Studio, MySQL Server (8.0.16), SQL Server 2007, 2012, Azure, AWS, Watson Studio.
+   
    •	Tools & Languages:       Python, SQL, Tableau, R Programming, Alteryx, Power BI, QlikView, SAS, Advanced MS Excel, MSWord, MS PowerPoint, C, C++, Java.
+   
    •	Big Data Ecosystem:      Hadoop, HBase, Hive, HDFS, Scala, Sqoop, Spark, Hue.
 
