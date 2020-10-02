@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I have currently ...
+- 🔭 I have pursued ...
 
-    •	pursued a master’s degree in Data Analytics with majors in 'statistical modeling' from Northeastern University. (July, 2020) 
+    • A master’s degree in Data Analytics with majors in 'statistical modeling' from Northeastern University. (July, 2020) 
     
 - 🌱 I’m actively ...
 
